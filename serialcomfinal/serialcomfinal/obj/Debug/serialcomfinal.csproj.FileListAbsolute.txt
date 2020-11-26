@@ -1,0 +1,13 @@
+c:\users\administrator\documents\visual studio 2012\Projects\serialcomfinal\serialcomfinal\bin\Debug\serialcomfinal.exe.config
+c:\users\administrator\documents\visual studio 2012\Projects\serialcomfinal\serialcomfinal\bin\Debug\serialcomfinal.exe
+c:\users\administrator\documents\visual studio 2012\Projects\serialcomfinal\serialcomfinal\bin\Debug\serialcomfinal.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\serialcomfinal\serialcomfinal\obj\Debug\serialcomfinal.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2012\Projects\serialcomfinal\serialcomfinal\obj\Debug\MainWindow.baml
+c:\users\administrator\documents\visual studio 2012\Projects\serialcomfinal\serialcomfinal\obj\Debug\MainWindow.g.cs
+c:\users\administrator\documents\visual studio 2012\Projects\serialcomfinal\serialcomfinal\obj\Debug\App.g.cs
+c:\users\administrator\documents\visual studio 2012\Projects\serialcomfinal\serialcomfinal\obj\Debug\serialcomfinal_MarkupCompile.cache
+c:\users\administrator\documents\visual studio 2012\Projects\serialcomfinal\serialcomfinal\obj\Debug\serialcomfinal.g.resources
+c:\users\administrator\documents\visual studio 2012\Projects\serialcomfinal\serialcomfinal\obj\Debug\serialcomfinal.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2012\Projects\serialcomfinal\serialcomfinal\obj\Debug\serialcomfinal.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2012\Projects\serialcomfinal\serialcomfinal\obj\Debug\serialcomfinal.exe
+c:\users\administrator\documents\visual studio 2012\Projects\serialcomfinal\serialcomfinal\obj\Debug\serialcomfinal.pdb
